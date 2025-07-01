@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to right,#ea8be2,#f5ebd1);
+    color: #070707;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+
+}
